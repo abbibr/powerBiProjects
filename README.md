@@ -9,6 +9,6 @@
 <p>6. 6th Visualization for Conditional Formatting</p>
 <p>7. 7th Visualization for Bins and Lists</p>
 <p>8. 8th All Different Visualization of Power BI</p>
-<p>9!. Final Real Project and Dashboard: </p>
+<p>9! Final Real Project and Dashboard: </p> <br>
 
 <img src="FinalProjectVisualization/dashboard.png">
