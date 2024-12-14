@@ -9,6 +9,10 @@
 <p>6. 6th Visualization for Conditional Formatting</p>
 <p>7. 7th Visualization for Bins and Lists</p>
 <p>8. 8th All Different Visualization of Power BI</p>
-<p>9! Final Real Project and Dashboard: </p> <br>
+<p>9! Final Real Project and Dashboard: </p> <br><br>
 
-<img src="FinalProjectVisualization/dashboard.png">
+<h3>Professional Employees Survey Dashboard</h3>
+<img src="FinalProjectVisualization/dashboard.png"> <br>
+
+<h3>Household Water Usage in 1year by Family Size</h3>
+<img src="HousholdWaterUsageVisualization/dashboard.png">
