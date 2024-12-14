@@ -11,8 +11,16 @@
 <p>8. 8th All Different Visualization of Power BI</p>
 <p>9! Final Real Project and Dashboard: </p> <br><br>
 
-<h3>Professional Employees Survey Dashboard</h3>
+<h3>
+    <a href="https://app.powerbi.com/groups/me/reports/b8418d46-b129-4138-aa23-4e9e3f8a1d70/395c1f286c89e325a6c0?experience=power-bi">
+        Professional Employees Survey Dashboard
+    </a>
+</h3>
 <img src="FinalProjectVisualization/dashboard.png"> <br>
 
-<h3>Household Water Usage in 1year by Family Size</h3>
+<h3>
+    <a href="https://app.powerbi.com/groups/me/reports/2d73b656-9591-4c40-b7b1-1bbe801bf882/6e57299067a38c2245d8?experience=power-bi">
+        Household Water Usage in 1year by Family Size
+    </a>
+</h3>
 <img src="HousholdWaterUsageVisualization/dashboard.png">
